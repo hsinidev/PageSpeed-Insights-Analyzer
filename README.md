@@ -84,3 +84,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ---
 
 Built with ❤️ by [HSINI MOHAMED](https://github.com/hsinidev).
+https://pagespeed.doodax.com/
