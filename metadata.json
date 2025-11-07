@@ -1,0 +1,5 @@
+{
+  "name": "PageSpeed Insights Analyzer",
+  "description": "A powerful web application to analyze website speed and display Core Web Vitals using the PageSpeed Insights API. Enter a URL to get a comprehensive performance report for both mobile and desktop, helping you improve SEO and user experience.",
+  "requestFramePermissions": []
+}
