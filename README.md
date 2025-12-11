@@ -9,7 +9,7 @@
 
 <br />
 
-### 🚀 **[LIVE DEMO: SitemapGenerator.doodax.com](https://SitemapGenerator.doodax.com)**
+### 🚀 **[LIVE DEMO:doodax.com](https://doodax.com/tools/pagespeed-insights-analyzer/index.html)**
 
 <br />
 
