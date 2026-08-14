@@ -1,18 +1,22 @@
 <div align="center">
-# 🚀 Pagespeed Insights Analyzer
-### *Modern, High-Performance JavaScript Solution & Developer Suite*
 
-<p align="center">
-  [![Architect](https://img.shields.io/badge/Architect-Hsini%20Mohamed-0055ff?style=for-the-badge&logo=github&logoColor=white)](https://hsini.dev)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-hsini.dev-00c853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hsini.dev)
-  [![Language](https://img.shields.io/badge/Language-TypeScript-3178C6?style=for-the-badge)](https://github.com/hsinidev)
-  [![Framework](https://img.shields.io/badge/Framework-JavaScript-6366f1?style=for-the-badge)](https://github.com/hsinidev)
-  [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Pagespeed%20Insights%20Analy&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%" style="max-width: 100%; border-radius: 12px; margin-bottom: 20px;" alt="Pagespeed Insights Analyzer Header Banner" />
+
+  <h1>🚀 Pagespeed Insights Analyzer</h1>
+  <p><em>Modern, High-Performance JavaScript Solution & Developer Suite</em></p>
+
+  <p align="center">
+    <a href="https://hsini.dev"><img src="https://img.shields.io/badge/Architect-Hsini%20Mohamed-0055ff?style=for-the-badge&logo=github&logoColor=white" alt="Architect: Hsini Mohamed" /></a>
+    <a href="https://hsini.dev"><img src="https://img.shields.io/badge/Portfolio-hsini.dev-00c853?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio: hsini.dev" /></a>
+    <a href="https://github.com/hsinidev"><img src="https://img.shields.io/badge/Language-TypeScript-3178C6?style=for-the-badge" alt="Language: TypeScript" /></a>
+    <a href="https://github.com/hsinidev"><img src="https://img.shields.io/badge/Framework-JavaScript-6366f1?style=for-the-badge" alt="Framework: JavaScript" /></a>
+    <a href="https://github.com/hsinidev/PageSpeed-Insights-Analyzer"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License: MIT" /></a>
+  </p>
 
 </div>
 
 ---
+
 ## 🌟 Executive Overview
 
 **Pagespeed Insights Analyzer** is a production-grade **TypeScript** platform engineered for high reliability, clean architectural separation, and frictionless developer workflow.
@@ -25,6 +29,7 @@
 - **Production Ready**: Built-in error resilience, validation, and structured logging.
 
 ---
+
 ## 🏗️ Architecture & Technology Stack
 
 - **Primary Language**: `TypeScript`
@@ -32,85 +37,6 @@
 - **Design Pattern**: Modular Clean Architecture / Domain-Driven Design
 - **License**: MIT Open Source Attribution
 
-## 📖 Deep-Dive Technical Documentation
-
-# PageSpeed Insights Analyzer
-
-<div align="center">
-
-
-<br />
-
-### 🚀 **[LIVE DEMO:doodax.com](https://doodax.com/tools/pagespeed-insights-analyzer/index.html)**
-
-<br />
-
-A professional, zero-build web application designed to analyze website performance, Core Web Vitals, and SEO metrics using the official Google PageSpeed Insights API.
-
-</div>
-
-## 📖 About The Project
-
-
-It helps you demystify:
-- **LCP (Largest Contentful Paint):** Loading performance.
-- **INP (Interaction to Next Paint):** Responsiveness.
-- **CLS (Cumulative Layout Shift):** Visual stability.
-
-## ✨ Key Features
-
-- **Dual Strategy Analysis:** Seamlessly switch between Mobile and Desktop performance audits.
-- **Visual Score Gauge:** Instant visual feedback on overall performance (0-100).
-- **Core Web Vitals Assessment:** Pass/Fail metrics based on real-world Chrome User Experience Report (CrUX) data.
-- **SEO & Accessibility Checks:** (Planned) foundations for broader audits.
-- **Immersive UI:** A modern, glassmorphism-based interface with a dynamic starfield background.
-- **SEO Friendly:** Fully optimized with Schema.org JSON-LD, sitemaps, and semantic HTML5.
-
-## 📁 Project Structure
-
-```text
-/
-├── components/          # Reusable UI Components
-│   ├── InfoModal.tsx    # Legal & Informational Pop-ups (Privacy, Terms, etc.)
-│   ├── MetricCard.tsx   # Individual Vital Display
-│   ├── ScoreGauge.tsx   # Animated SVG Score Circle
-│   ├── SeoArticle.tsx   # SEO Content Logic
-│   └── Starfield.tsx    # Background Animation Canvas
-├── public/              # Static Assets & SEO Files
-│   ├── favicon.svg      # Branding Icon
-│   ├── robots.txt       # Crawler Instructions
-│   └── sitemap.xml      # Site Index
-├── App.tsx              # Main Application Controller
-├── constants.ts         # Configuration & API Keys
-├── index.html           # Entry HTML with Metadata
-├── index.tsx            # React Mount Point
-├── types.ts             # TypeScript Interfaces
-└── metadata.json        # Application Config
-```
-
-## 🚀 Getting Started
-
-1.  **Clone the Repo**
-    ```bash
-    git clone https://github.com/hsinidev/pagespeed-analyzer.git
-    ```
-2.  **Configure API**
-    *   Get your key from [Google Cloud Console](https://console.cloud.google.com/apis/credentials).
-    *   Update `constants.ts`.
-3.  **Run**
-    *   No build step required. Serve `index.html` via any static server.
-
-## 🤝 Contact & Support
-
-**Project Admin:** HSINI MOHAMED
-- **Website:** [doodax.com](https://doodax.com)
-- **Email:** hsini.web@gmail.com
-- **GitHub:** [hsinidev](https://github.com/hsinidev)
-
----
-*Powered by HSINI MOHAMED*
-
----
 ## 🚀 Quick Start & Installation
 
 ### 1. Clone the Repository
